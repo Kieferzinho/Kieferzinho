@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kieferzinho](https://github.com/Kieferzinho)
 
-- 📝 I regularly write articles on [I don't.](I don't.)
-
 - 💬 Ask me about **Docker, general infrastructure and languages.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/samuel-kiefer/**
