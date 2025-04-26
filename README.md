@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **Docker, general infrastructure and languages.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/samuel-kiefer/**
+- 📫 How to reach me: **https://www.linkedin.com/in/samuel-kiefer/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/samuel-kiefer/](https://www.linkedin.com/in/samuel-kiefer/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/samuel-kiefer/](https://www.linkedin.com/in/samuel-kiefer/)
 
-- ⚡ Fun fact **I'm fluent in 3 languages and curretly working on the fourth one.**
+- ⚡ Fun fact: **I'm fluent in 3 languages and curretly working on the fourth one.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
