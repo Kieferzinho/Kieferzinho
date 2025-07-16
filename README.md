@@ -56,8 +56,6 @@ Organizo meus estudos e experimentos no GitHub. Confira alguns destaques:<br><br
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kieferzinho.Kieferzinho&left_color=gray&right_color=blue" />
 </div>
 
----
-
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
@@ -78,8 +76,6 @@ Organizo meus estudos e experimentos no GitHub. Confira alguns destaques:<br><br
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kieferzinho&bg_color=0d1117&color=00adb5&line=00adb5&point=00adb5&area=true&hide_border=true"/>
   </a>
 </div>
-
----
 
 <h2 align="center">🧰 Tecnologias e Ferramentas</h2>
 
