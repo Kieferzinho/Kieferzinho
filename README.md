@@ -1,30 +1,76 @@
-<h1 align="center">Hi 👋, I'm Kiefer</h1>
-<h3 align="center">A passionate infrastructure analyst from Brazil</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:1A1A1D,100:00ADB5"/>
 
-- 🔭 I’m currently working on **no project at the moment.**
+# 👋 Olá! Eu sou o Samuel Kiefer
 
-- 🌱 I’m currently learning **Ansible.**
-
-- 👯 I’m looking to collaborate on **any projects dealing with automation.**
-
-- 🤝 I’m looking for help with **whatever you can help.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Kieferzinho](https://github.com/Kieferzinho)
-
-- 💬 Ask me about **Docker, general infrastructure and languages.**
-
-- 📫 How to reach me: **https://www.linkedin.com/in/samuel-kiefer/**
-
-- 📄 Know about my experiences: [https://www.linkedin.com/in/samuel-kiefer/](https://www.linkedin.com/in/samuel-kiefer/)
-
-- ⚡ Fun fact: **I'm fluent in 3 languages and curretly working on the fourth one.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samuel kiefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel kiefer" height="30" width="40" /></a>
-<a href="https://discord.gg/k1efer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="k1efer" height="30" width="40" /></a>
+Sou um <strong>Analista de Infraestrutura</strong> apaixonado por estabilidade, automação e segurança. Trabalho na <strong>Stefanini</strong>, onde garanto o bom funcionamento e a resiliência dos nossos sistemas e servidores. <br><br>
+Atualmente estou focado em ferramentas como <strong>Ansible</strong> e <strong>Docker</strong>, e venho explorando cada vez mais tecnologias de automação, orquestração e monitoramento para ambientes críticos. <br><br>
+Além da infraestrutura, também tenho interesse por linguagens de programação, redes e segurança da informação.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+---
 
+## 🧠 Sobre mim
+
+- 🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI e graduando em Ciência da Computação pela UNIP.
+- 🛡️ Profissional da área de **Infraestrutura e Segurança**.
+- 📚 Estudando: **Ansible**, automação de infraestrutura, hardening e pipelines.
+- 🧪 Explorando soluções de **automação e geração de scripts**, com foco em infraestrutura e segurança.
+- 🔗 Colaborador ativo na **Stefanini**, empresa referência em soluções de T.I globais.
+- 💬 Falo fluentemente 3 idiomas (Português, Inglês e Espanhol) e atualmente estou aprendendo o quarto 🌍
+
+---
+
+## 💼 Meus projetos
+
+Organizo meus estudos e experimentos no GitHub. Confira alguns destaques:
+
+- [🔗 GitHub Principal](https://github.com/Kieferzinho)
+- [🛠️ Repositórios de automação, scripts e testes de ferramentas](https://github.com/Kieferzinho?tab=repositories)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kieferzinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kieferzinho&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+### ☁️ Infraestrutura, Nuvem & DevOps  
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,vagrant,linux,ansible,grafana)](https://skillicons.dev)
+
+### 🧑‍💻 Linguagens  
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,cs,js,kotlin,bash)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de Suporte  
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,mysql,dotnet)](https://skillicons.dev)
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/samuel-kiefer/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/k1efer" title="Discord">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kieferzinho&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kieferzinho.Kieferzinho&left_color=gray&right_color=blue" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1A1A1D,100:00ADB5"/>
