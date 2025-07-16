@@ -46,6 +46,21 @@ Organizo meus estudos e experimentos no GitHub. Confira alguns destaques:<br><br
 - Sou um fã ávido de HQs e Mangás, e meu super-herói favorito é o Homem-Aranha.
 </p>
 
+<h2 align="center">🌐 Conecte-se comigo</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-kiefer/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/k1efer" title="Discord">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kieferzinho.Kieferzinho&left_color=gray&right_color=blue" />
+</div>
+
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
@@ -81,24 +96,5 @@ Organizo meus estudos e experimentos no GitHub. Confira alguns destaques:<br><br
 <strong>🛠️ Ferramentas de Suporte</strong><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,dotnet"/>
 </p>
-
----
-
-<h2 align="center">🌐 Conecte-se comigo</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuel-kiefer/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/k1efer" title="Discord">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kieferzinho.Kieferzinho&left_color=gray&right_color=blue" />
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1A1A1D,100:00ADB5"/>
