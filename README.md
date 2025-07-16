@@ -59,14 +59,8 @@ Organizo meus estudos e experimentos no GitHub. Confira alguns destaques:<br><br
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kieferzinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kieferzinho&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kieferzinho&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kieferzinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://streak-stats.demolab.com?user=Kieferzinho&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="160cm" alt="streak graph" />
 </div>
 
 <br>
@@ -76,6 +70,8 @@ Organizo meus estudos e experimentos no GitHub. Confira alguns destaques:<br><br
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kieferzinho&bg_color=0d1117&color=00adb5&line=00adb5&point=00adb5&area=true&hide_border=true"/>
   </a>
 </div>
+
+<br>
 
 <h2 align="center">🧰 Tecnologias e Ferramentas</h2>
 
