@@ -10,8 +10,6 @@ Tenho foco em ferramentas como <strong>Ansible</strong> e <strong>Docker</strong
 Tenho também grande interesse por linguagens de programação, redes e segurança da informação.
 </p>
 
----
-
 <h2 align="center">🧠 Sobre mim</h2>
 
 <p align="center">
@@ -23,7 +21,6 @@ Tenho também grande interesse por linguagens de programação, redes e seguran�
 💬 Falo fluentemente 3 idiomas (Português, Inglês e Espanhol) e atualmente estou aprendendo o quarto 🌍
 </p>
 
----
 
 <h2 align="center">💼 Meus projetos</h2>
 
@@ -32,8 +29,6 @@ Organizo meus estudos e experimentos no GitHub. Confira alguns destaques:<br><br
 <a href="https://github.com/Kieferzinho">🔗 GitHub Principal</a><br>
 <a href="https://github.com/Kieferzinho?tab=repositories">🛠️ Repositórios de automação, scripts e testes de ferramentas</a>
 </p>
-
----
 
 <h2 align="center">💡 Interesses</h2>
 
