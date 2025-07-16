@@ -42,7 +42,7 @@ Organizo meus estudos e experimentos no GitHub. Confira alguns destaques:
 ## 🧰 Tecnologias e Ferramentas
 
 ### ☁️ Infraestrutura, Nuvem & DevOps  
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,vagrant,linux,ansible,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,linux,ansible,grafana)](https://skillicons.dev)
 
 ### 🧑‍💻 Linguagens  
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,cs,js,kotlin,bash)](https://skillicons.dev)
