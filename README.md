@@ -48,6 +48,10 @@ Organizo meus estudos e experimentos no GitHub. Confira alguns destaques:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kieferzinho&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kieferzinho&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" />
+</div>
+
 ---
 
 [![Kieferzinho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kieferzinho&bg_color=0d1117&color=00adb5&line=00adb5&point=00adb5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -79,10 +83,6 @@ Organizo meus estudos e experimentos no GitHub. Confira alguns destaques:
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kieferzinho&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" />
-</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kieferzinho.Kieferzinho&left_color=gray&right_color=blue" />
