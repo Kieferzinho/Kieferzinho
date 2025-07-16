@@ -3,9 +3,9 @@
 # 👋 Olá! Eu sou o Samuel Kiefer
 
 <p align="left">
-Sou um <strong>Analista de Infraestrutura</strong> apaixonado por estabilidade, automação e segurança. Trabalho na <strong>Stefanini</strong>, onde garanto o bom funcionamento e a resiliência dos nossos sistemas e servidores. <br><br>
-Atualmente estou focado em ferramentas como <strong>Ansible</strong> e <strong>Docker</strong>, e venho explorando cada vez mais tecnologias de automação, orquestração e monitoramento para ambientes críticos. <br><br>
-Além da infraestrutura, também tenho interesse por linguagens de programação, redes e segurança da informação.
+Sou um <strong>profissional de Infraestrutura</strong> apaixonado por estabilidade, automação e segurança digital. Na <strong>Stefanini</strong>, trabalho diariamente para garantir ambientes robustos, resilientes e seguros. <br><br>
+Sou movido pela curiosidade técnica e pela busca constante por soluções eficientes, escaláveis e seguras. Tenho foco em ferramentas como <strong>Ansible</strong> e <strong>Docker</strong>, além de explorar tecnologias de orquestração e monitoramento para ambientes críticos. <br><br>
+Tenho também grande interesse por linguagens de programação, redes e segurança da informação.
 </p>
 
 ---
@@ -13,10 +13,10 @@ Além da infraestrutura, também tenho interesse por linguagens de programação
 ## 🧠 Sobre mim
 
 - 🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI e graduando em Ciência da Computação pela UNIP.
-- 🛡️ Profissional da área de **Infraestrutura e Segurança**.
-- 📚 Estudando: **Ansible**, automação de infraestrutura, hardening e pipelines.
-- 🧪 Explorando soluções de **automação e geração de scripts**, com foco em infraestrutura e segurança.
-- 🔗 Colaborador ativo na **Stefanini**, empresa referência em soluções de T.I globais.
+- 🛡️ Profissional da área de <strong>Infraestrutura e Segurança</strong>.
+- 📚 Estudando: <strong>Ansible</strong>, automação de infraestrutura, hardening e pipelines.
+- 🧪 Explorando soluções de <strong>automação e geração de scripts</strong>, com foco em infraestrutura e segurança.
+- 🔗 Colaborador ativo na <strong>Stefanini</strong>, empresa referência em soluções de T.I globais.
 - 💬 Falo fluentemente 3 idiomas (Português, Inglês e Espanhol) e atualmente estou aprendendo o quarto 🌍
 
 ---
@@ -30,6 +30,17 @@ Organizo meus estudos e experimentos no GitHub. Confira alguns destaques:
 
 ---
 
+## 💡 Interesses
+
+- Segurança ofensiva e defensiva.  
+- Ferramentas de automação para ambientes críticos.  
+- Observabilidade e monitoramento com foco em performance.  
+- Estudo de linguagens e scripting para agilidade de entrega.
+- Gosto de acompanhar basquete, seja ele nacional ou pela NBA, também jogo semanalmente.
+- Sou um fá avido de HQs e Mangás, e meu super héroi favorito é o Homem Aranha.  
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -39,12 +50,16 @@ Organizo meus estudos e experimentos no GitHub. Confira alguns destaques:
 
 ---
 
+[![Kieferzinho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kieferzinho&bg_color=0d1117&color=00adb5&line=00adb5&point=00adb5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🧰 Tecnologias e Ferramentas
 
 ### ☁️ Infraestrutura, Nuvem & DevOps  
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,linux,ansible,grafana)](https://skillicons.dev)
 
-### 🧑‍💻 Linguagens  
+### 👨‍💻 Linguagens  
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,cs,js,kotlin,bash)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de Suporte  
